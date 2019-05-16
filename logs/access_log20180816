@@ -1,0 +1,41 @@
+186.202.153.214 - - [16/Aug/2018:03:13:24 -0300] "GET /getLicensing/www.soeltextil.com.br HTTP/1.0" 200 4 "-" "-" 36605
+186.202.153.221 - - [16/Aug/2018:03:17:59 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 53725
+186.202.153.221 - - [16/Aug/2018:05:58:54 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 33772
+186.202.153.221 - - [16/Aug/2018:06:00:43 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 37452
+186.202.153.221 - - [16/Aug/2018:07:40:52 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 55418
+186.202.153.221 - - [16/Aug/2018:08:45:53 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 43690
+186.202.153.221 - - [16/Aug/2018:08:46:05 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 44222
+186.202.153.221 - - [16/Aug/2018:08:46:21 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 44746
+186.202.153.221 - - [16/Aug/2018:08:46:24 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 44834
+186.202.153.221 - - [16/Aug/2018:08:51:13 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 56513
+186.202.153.221 - - [16/Aug/2018:08:51:14 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 56540
+186.202.153.221 - - [16/Aug/2018:09:08:58 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 41869
+186.202.153.221 - - [16/Aug/2018:10:04:32 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 37069
+186.202.153.221 - - [16/Aug/2018:11:03:20 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 59985
+186.202.153.221 - - [16/Aug/2018:11:05:25 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 39131
+186.202.153.221 - - [16/Aug/2018:11:23:39 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 38224
+186.202.153.221 - - [16/Aug/2018:11:26:23 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 43121
+186.202.153.221 - - [16/Aug/2018:12:46:49 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 33493
+186.202.153.221 - - [16/Aug/2018:12:56:09 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 56546
+186.202.153.221 - - [16/Aug/2018:14:21:36 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 35487
+186.202.153.214 - - [16/Aug/2018:14:58:08 -0300] "GET /getLicensing/www.soeltextil.com.br HTTP/1.0" 200 4 "-" "-" 33787
+186.202.153.221 - - [16/Aug/2018:15:49:13 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 54847
+177.72.199.27 - - [16/Aug/2018:16:09:07 -0300] "GET / HTTP/1.1" 302 400 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52039
+177.72.199.27 - - [16/Aug/2018:16:09:09 -0300] "GET /login HTTP/1.1" 200 4731 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52040
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/demo/demo.js HTTP/1.1" 200 9723 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52055
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/js/plugins/perfect-scrollbar.jquery.min.js HTTP/1.1" 200 25333 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52052
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/js/plugins/bootstrap-notify.js HTTP/1.1" 200 15605 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52057
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/js/plugins/chartjs.min.js HTTP/1.1" 200 157844 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52053
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/css/paper-dashboard.css?v=2.0.0 HTTP/1.1" 304 - "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52052
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/js/paper-dashboard.min.js?v=2.0.0 HTTP/1.1" 200 3633 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52056
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/demo/demo.css HTTP/1.1" 200 2835 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52057
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/js/core/jquery.min.js HTTP/1.1" 200 86659 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52053
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/css/bootstrap.min.css HTTP/1.1" 200 140931 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52055
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/js/core/popper.min.js HTTP/1.1" 200 18994 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52057
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/js/core/bootstrap.min.js HTTP/1.1" 200 50732 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52056
+177.72.199.27 - - [16/Aug/2018:16:09:10 -0300] "GET /assets/img/jan-sendereks.jpg HTTP/1.1" 200 268442 "http://central.atdsistemas.com.br/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" 52057
+186.202.153.221 - - [16/Aug/2018:17:49:36 -0300] "GET /getLicensing/www.radiodaprefeitura.com.br HTTP/1.0" 200 4 "-" "-" 45721
+186.202.153.214 - - [16/Aug/2018:18:30:59 -0300] "GET /getLicensing/www.soeltextil.com.br HTTP/1.0" 200 4 "-" "-" 58376
+186.202.153.214 - - [16/Aug/2018:19:29:06 -0300] "GET /getLicensing/www.soeltextil.com.br HTTP/1.0" 200 4 "-" "-" 38471
+186.202.153.214 - - [16/Aug/2018:19:29:57 -0300] "GET /getLicensing/www.soeltextil.com.br HTTP/1.0" 200 4 "-" "-" 39183
+186.202.153.214 - - [16/Aug/2018:20:32:45 -0300] "GET /getLicensing/www.soeltextil.com.br HTTP/1.0" 200 4 "-" "-" 35015

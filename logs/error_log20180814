@@ -1,0 +1,2 @@
+[Tue Aug 14 00:41:44 2018] [error] [client 177.72.199.27] mod_mime_magic: invalid type 0 in mconvert()., referer: http://central.atdsistemas.com.br/assets/css/paper-dashboard.css?v=2.0.0
+[Tue Aug 14 14:27:01 2018] [error] [client 177.72.199.27] mod_mime_magic: invalid type 0 in mconvert()., referer: http://central.atdsistemas.com.br/assets/css/paper-dashboard.css?v=2.0.0
